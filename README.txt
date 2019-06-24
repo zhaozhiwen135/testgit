@@ -1,1 +1,1 @@
-这是一个vb.net+sql server 的项目
+这是一个vb.net+sql server 的项目，并且是中文
